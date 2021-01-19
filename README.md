@@ -1,5 +1,4 @@
 ## Pokedex API
 
-## Anthony Swank
-
+By Anthony Swank
 Thinkful 2021
